@@ -1,0 +1,44 @@
+body {
+    background-color: aliceblue;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    color: gray;
+}
+
+nav {
+    padding: 8px 200px;
+    background-color: #FF9966;
+    color: white;
+}
+
+article {
+    padding: 10px;
+    min-height : 40px;
+    font-size: 1rem;
+}
+
+article .comment{
+    font-size:0.6rem ;
+}
+
+#slideContainer1 {
+    width: 80%;
+    margin: 1em auto;
+  }
+
+  
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color :#FF9966;
+    color: white;
+}
